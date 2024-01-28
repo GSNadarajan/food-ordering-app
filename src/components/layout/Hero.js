@@ -15,7 +15,7 @@ export default function Hero() {
              </span>
           </h1>
           <p className="my-4 text-gray-500 text-sm ">
-            Pizza is the missing piece that makes everyday complete, <br /> a simple
+            Pizza is the missing piece that makes everyday complete, a simple
             yet delicious joy in life
           </p>
           <div className="flex gap-4 text-sm">
