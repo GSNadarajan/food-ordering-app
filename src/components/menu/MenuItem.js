@@ -5,7 +5,7 @@ export default function MenuItem() {
     <div className="bg-gray-200 p-4  rounded-lg text-center group hover:bg-white hover:shadow-md hover:shadow-black/25 transition-all">
     <div className="text-center ">
     {/* <img src="/menu1.png" alt="pizza" className="max-h-auto max-h-40 block mx-auto" /> */}
-    <Image src="/menu1.png" alt="pizza" width={200} height={200} className="max-h-auto max-h-40 block mx-auto" />
+    <Image src="/menu1.png" alt="pizza" width={200} height={200} className="max-h-auto w-full block mx-auto" />
     
 
     </div>
